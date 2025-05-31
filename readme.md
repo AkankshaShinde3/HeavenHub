@@ -1,6 +1,6 @@
 # Heaven Hub
 
-Heaven Hub is a full-stack MERN application that allows users to list, discover, and book accommodations. The project follows the MVC architecture and uses EJS templating for server-side rendering. It is built with a strong focus on clean structure, authentication, and real-world usability.
+Heaven Hub is a full-stack application that allows users to list, discover, and book accommodations. The project follows the MVC architecture and uses EJS templating for server-side rendering. It is built with a strong focus on clean structure, authentication, and real-world usability.
 
 ## Live Demo
 [View Deployed Site](https://heavenhub-73y2.onrender.com/listings)
