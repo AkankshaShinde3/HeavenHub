@@ -26,5 +26,5 @@ Heaven Hub is a full-stack MERN application that allows users to list, discover,
 - **Frontend**: HTML, CSS, EJS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB with Mongoose
-- **Authentication**: Express-Session, Passport.js (or bcrypt)
+- **Authentication**: Express-Session, Passport.js
 - **Deployment**: MongoDB Atlas, onRender
